@@ -10,7 +10,9 @@ Este projeto foi desenvolvido como parte da disciplina **Desenvolvimento Web 1**
 🔗 **Link do projeto de Desenvolvimento Web 1:**  
 👉 [Clique aqui para acessar o site](https://deboraliah.github.io/projeto.figma/
 )
-👉 [Clique aqui para acessar o site](https://www.figma.com/proto/fcooSNlodZGDhlnX5uIqOI/Projeto_01?node-id=1-2&starting-point-node-id=1%3A2
+
+
+👉 [Clique aqui para acessar o projeto no figma](https://www.figma.com/proto/fcooSNlodZGDhlnX5uIqOI/Projeto_01?node-id=1-2&starting-point-node-id=1%3A2
 )
 ---
 
