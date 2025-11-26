@@ -1,0 +1,165 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color:#caa9e9;
+    color: #3b224a;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    color:black;
+}
+
+header {
+    background-color: #ffffff;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo h1 {
+    color: #8B5FBF;
+    margin: 0;
+}
+
+nav a {
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+
+.banner {
+    background-color: #afbbff;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 60px;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    height: 220px;
+}
+
+.modelo {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    margin-left:40px;
+    position: relative;
+    height: 200px;
+}
+
+.batom {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    margin-left:40px;
+    position: relative;
+    height: 200px;
+}
+
+.paleta {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    margin-left:40px;
+    position: relative;
+    height: 200px;
+}
+
+.banner-text {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.banner-text2 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.produtos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 40px;
+    justify-content: center;
+}
+
+.card {
+    background-color: #8943b8a6;
+    padding: 50px;
+    width: 250px;
+    text-align: center;
+}
+
+.card p {
+    background-color:#afbbff;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+
+.detalhes-container {
+    display: flex;
+    gap: 40px;
+    padding: 40px;
+    align-items: center;
+}
+
+.info-produto h2 {
+    font-size: 30px;
+}
+
+.estrelas {
+    font-size: 22px;
+}
+
+.preco {
+    font-size: 32px;
+    font-weight: bold;
+    color: green;
+}
+
+.btn-comprar {
+    padding: 15px 30px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: #eae1fa;
+}
+
+
+.contato-info {
+    background-color: #b58bd9;
+    padding: 30px;
+    text-align: center;
+}
+
+.formulario form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 40px;
+}
+
+input, textarea {
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.btn-enviar {
+    padding: 12px;
+    background: #e7d2f7f6;
+    font-weight: bold;
+}
+
+
+footer {
+    background-color: #fff;
+    padding: 15px;
+    text-align: center;
+    margin-top: 30px;
+}   
