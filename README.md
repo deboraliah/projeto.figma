@@ -10,7 +10,7 @@ Este projeto foi desenvolvido como parte da disciplina **Desenvolvimento Web 1**
 Você pode abrir o arquivo index.html diretamente no navegador  
 ou acessar via **GitHub Pages** :
 
-🔗 *Link do GitHub Pages:* [ https://naayxz.github.io/LORENAY-WEB1-FIGMA/]
+🔗 *Link do GitHub Pages:* [ https://deboraliah.github.io/projeto.figma/]
 
 ## 🎨 Sobre o site
 
