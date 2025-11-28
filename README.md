@@ -7,15 +7,10 @@ Este projeto foi desenvolvido como parte da disciplina **Desenvolvimento Web 1**
 
 ## 🌐 Acesse o projeto
 
-🔗 **Link do projeto de Desenvolvimento Web 1:**  
+Você pode abrir o arquivo index.html diretamente no navegador  
+ou acessar via **GitHub Pages** :
 
-
-
-👉 [Clique aqui para acessar o site](https://deboraliah.github.io/projeto.figma/
-)
-👉 [Clique aqui para acessar o projeto no figma](https://www.figma.com/proto/fcooSNlodZGDhlnX5uIqOI/Projeto_01?node-id=1-2&starting-point-node-id=1%3A2
-)
----
+🔗 *Link do GitHub Pages:* [ https://naayxz.github.io/LORENAY-WEB1-FIGMA/]
 
 ## 🎨 Sobre o site
 
@@ -33,7 +28,23 @@ O site da DebaMakeup foi criado para apresentar os serviços oferecidos pela emp
 ## 🛠️ Tecnologias utilizadas
 
 - **HTML5**  
-- **CSS3**  
+- **CSS3**
+
+```
+projeto/
+│
+├── index.html
+│
+├── html/
+│    ├── detalhes.html
+│    └── contato.html
+│
+├── css/
+│    └── style.css
+│
+├── img/
+     └── (imagens utilizadas no site)
+```
 
 ---
 
