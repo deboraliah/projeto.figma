@@ -11,6 +11,7 @@ Você pode abrir o arquivo index.html diretamente no navegador
 ou acessar via **GitHub Pages** :
 
 🔗 *Link do GitHub Pages:* [ https://deboraliah.github.io/projeto.figma/]
+🔗 *Link do GitHub Pages:* [_https://www.figma.com/proto/fcooSNlodZGDhlnX5uIqOI/Projeto_01?node-id=1-2&starting-point-node-id=1%3A2]
 
 ## 🎨 Sobre o site
 
